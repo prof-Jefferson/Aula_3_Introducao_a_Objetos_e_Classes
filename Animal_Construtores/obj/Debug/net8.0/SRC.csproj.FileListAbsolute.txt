@@ -1,0 +1,14 @@
+D:\Ensino\IFPR\2024\POO-I\Aula 03\SRC\bin\Debug\net8.0\SRC.exe
+D:\Ensino\IFPR\2024\POO-I\Aula 03\SRC\bin\Debug\net8.0\SRC.deps.json
+D:\Ensino\IFPR\2024\POO-I\Aula 03\SRC\bin\Debug\net8.0\SRC.runtimeconfig.json
+D:\Ensino\IFPR\2024\POO-I\Aula 03\SRC\bin\Debug\net8.0\SRC.dll
+D:\Ensino\IFPR\2024\POO-I\Aula 03\SRC\bin\Debug\net8.0\SRC.pdb
+D:\Ensino\IFPR\2024\POO-I\Aula 03\SRC\obj\Debug\net8.0\SRC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ensino\IFPR\2024\POO-I\Aula 03\SRC\obj\Debug\net8.0\SRC.AssemblyInfoInputs.cache
+D:\Ensino\IFPR\2024\POO-I\Aula 03\SRC\obj\Debug\net8.0\SRC.AssemblyInfo.cs
+D:\Ensino\IFPR\2024\POO-I\Aula 03\SRC\obj\Debug\net8.0\SRC.csproj.CoreCompileInputs.cache
+D:\Ensino\IFPR\2024\POO-I\Aula 03\SRC\obj\Debug\net8.0\SRC.dll
+D:\Ensino\IFPR\2024\POO-I\Aula 03\SRC\obj\Debug\net8.0\refint\SRC.dll
+D:\Ensino\IFPR\2024\POO-I\Aula 03\SRC\obj\Debug\net8.0\SRC.pdb
+D:\Ensino\IFPR\2024\POO-I\Aula 03\SRC\obj\Debug\net8.0\SRC.genruntimeconfig.cache
+D:\Ensino\IFPR\2024\POO-I\Aula 03\SRC\obj\Debug\net8.0\ref\SRC.dll
